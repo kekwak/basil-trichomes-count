@@ -1,0 +1,12 @@
+names:
+- Tr
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: basil-count
+  url: https://universe.roboflow.com/mr-pony/basil-count/dataset/2
+  version: 2
+  workspace: mr-pony
+test: ../test/images
+train: basil-count-2/train/images
+val: basil-count-2/valid/images
