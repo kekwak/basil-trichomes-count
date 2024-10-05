@@ -10,6 +10,7 @@ images/
 images-data/
 batches/
 trash/
+yolov8*.pt
 
 # Distribution / packaging
 .Python
